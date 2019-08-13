@@ -34,7 +34,7 @@ entries) the following two articles:
   Title = {Attentive Deep Regression Networks for Real-Time Visual Face Tracking
   in Video Surveillance},
   Year = {2019},
-  Eprint = {arXiv:2800869},
+  Eprint = {arXiv:1908.03812},
 }
 ```
 
