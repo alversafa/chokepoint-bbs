@@ -3,8 +3,8 @@
 Bounding box annotations for the G1 and G2 sets of the ChokePoint dataset, provided
 as a supplementary material to:
 
-S. Alver and U. Halici, **"Attentive Deep Regression Networks for Real-Time Visual 
-Face Tracking in Video Surveillance,"** Submitted, 2019.
+[S. Alver and U. Halici, **"Attentive Deep Regression Networks for Real-Time Visual 
+Face Tracking in Video Surveillance,"** Submitted, 2019.](https://arxiv.org/abs/1908.03812)
 
 ## Description
 
