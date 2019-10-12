@@ -22,6 +22,13 @@ form of: `file_directory+file_name, top_left_row, top_left_column, width, height
 **NOTE:** The original dataset only has person ID and eye location annotations, 
 which makes it incompatible with the task of visual face tracking.
 
+**NEW:** Also added the bounding box results of the trackers described in the paper
+so that comparisons can be done. There are two kinds of results: 1) Results where the
+trackers are not reinitialized after target loss (in the `not_reinit` folders) 2) Results
+where the trackers are reinitialized after complete target loss (in the `reinit` folders).
+It should be noted that these results do not contain the bounding boxes for the first frames
+in the sequences as they are only used for initializing the trackers.
+
 
 ## Citation
 
